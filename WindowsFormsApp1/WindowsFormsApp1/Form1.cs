@@ -39,7 +39,7 @@ namespace WindowsFormsApp1
             for (int i = 0; i < minesNumber; i++)
             {
                 number = rnd.Next(0, field);
-                if (!locationOfMines.Contains(number))  //if the list not contains number add it,
+                if (!locationOfMines.Contains(number))  //if the list not contains number, add it;
                     locationOfMines.Add(number);        //else i decrease to complete minesNumber 10,25 or 40.
                 else
                     i--; //if I don't do it, for ex; minesNumber 25,  but it fills 23. Because hold random same number.
