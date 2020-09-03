@@ -1,4 +1,4 @@
-# C# Minesweeper FormApp
+# C# Minesweeper FormApp with FlowLayoutPanel
 
 Firstly, you will see like that screen. You need to choose a radiobutton that includes Easy which includes 10 mines, Middle which includes 25 mines and Hard which includes 40 mines.
 
