@@ -19,3 +19,5 @@ Thirdly, when you play the game, it will take number that from 1 to mines number
 ### Hard Mode
 
 ![hard](https://user-images.githubusercontent.com/59045890/91980803-8099d600-ed30-11ea-94d8-bbdd60f9c3dc.png)
+
+#### Note: Every explanations are in the code.
